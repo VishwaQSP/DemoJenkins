@@ -9,6 +9,11 @@ public class Tc1Test {
 	public void m1()
 	{
 		Reporter.log("Test Case 1",true);
+		Reporter.log("Test Case 1",true);
+		Reporter.log("Test Case 1",true);
+		Reporter.log("Test Case 1",true);
+		
+		
 	}
 
 }
