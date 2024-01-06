@@ -9,6 +9,8 @@ public class Tc2 {
 	public void tc2()
 	{
 		Reporter.log("Tc2 Ruuning",true);
+		Reporter.log("Tc2 testing",true);
+		
 	}
 
 }
