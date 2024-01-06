@@ -8,6 +8,8 @@ public class Tc3Test {
 	public void tc3()
 	{
 		Reporter.log("Tc3 Passed",true);
+		Reporter.log("Tc3A Passed",true);
+		Reporter.log("Tc3B Passed",true);
 		
 	}
 
