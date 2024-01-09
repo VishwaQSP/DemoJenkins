@@ -11,6 +11,8 @@ public class Tc1Test {
 	public void m1()
 	{
 		Reporter.log("Test Case 1 Executed",true);
+		Reporter.log("Test Case 1 Executed",true);
+		
 	}
 
 }
